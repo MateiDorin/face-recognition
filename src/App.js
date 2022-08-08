@@ -5,7 +5,6 @@ import Logo from './components/Logo/Logo';
 function App() {
   return (
     <div>
-      <p>Here I start My project</p>
       <Navigation />
       <Logo />
       {/* <p>logo</p>

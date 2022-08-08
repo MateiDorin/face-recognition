@@ -1,3 +1,14 @@
 .tilt {
-    background: linear-gradient(to right, yellow, #009966, purple);
+    height: 150px;
+    width: 150px;
+    margin-left: 1rem;
+    background: linear-gradient(to right, purple, white, yellow);
+    border-radius: 12px;
+}
+
+img {
+    padding: 1.5rem;
+    width: 6rem;
+    height: 6rem;
+    color: white;
 }
