@@ -1,0 +1,25 @@
+.form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+    width: 70%;
+}
+
+input {
+    width: 50%;
+    gap: 1rem;
+}
+
+button {
+    width: 18%;
+    padding: 0.2rem;
+    background-color: purple;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+}
+
+p {
+    text-align: center;
+}

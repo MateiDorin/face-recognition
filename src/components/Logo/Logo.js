@@ -7,7 +7,7 @@ const Logo = () => {
     <div className="ma4 ma0">
       <Tilt perspective={2000}>
         <div className="tilt">
-            <img pa3 src={brain} />
+            <img src={brain} />
         </div>
       </Tilt>
     </div>
