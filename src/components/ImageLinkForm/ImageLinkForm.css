@@ -18,6 +18,11 @@ button {
     font-weight: bold;
     color: white;
     cursor: pointer;
+    transition: all;
+}
+
+button:hover {
+    transform: scale(1.1);
 }
 
 p {
