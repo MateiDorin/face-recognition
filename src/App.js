@@ -4,7 +4,7 @@ import Logo from "./components/Logo/Logo";
 import ImageLinkForm from "./components/ImageLinkForm/ImageLinkForm";
 import Rank from "./components/Rank/Rank";
 import Clarifai from 'clarifai';
-import { clarifaiKey } from "./key/clarifai";
+import { clarifaiKey } from "../clarifai";
 
 function App() {
   const onInputChange = (event) => {
