@@ -9,10 +9,11 @@
 input {
     width: 50%;
     gap: 1rem;
+    border: 2px solid black;
 }
 
 button {
-    width: 18%;
+    width: 20%;
     padding: 0.2rem;
     background-color: purple;
     font-weight: bold;
@@ -22,7 +23,7 @@ button {
 }
 
 button:hover {
-    transform: scale(1.1);
+    transform: scale(0.95);
 }
 
 p {
